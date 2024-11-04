@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomek\\Desktop\\Tomasz Wolowski assignment\\GetTvShowTotalLength\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8D1F9B-7D5C-4D8A-B4E9-28ADDD8F92F9}|GetTvShowTotalLength\\GetTvShowTotalLength.csproj|c:\\users\\tomek\\desktop\\tomasz wolowski assignment\\gettvshowtotallength\\gettvshowtotallength\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8D1F9B-7D5C-4D8A-B4E9-28ADDD8F92F9}|GetTvShowTotalLength\\GetTvShowTotalLength.csproj|solutionrelative:gettvshowtotallength\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomek\\Desktop\\Tomasz Wolowski assignment\\GetTvShowTotalLength\\GetTvShowTotalLength\\Program.cs",
+              "RelativeDocumentMoniker": "GetTvShowTotalLength\\Program.cs",
+              "ToolTip": "C:\\Users\\tomek\\Desktop\\Tomasz Wolowski assignment\\GetTvShowTotalLength\\GetTvShowTotalLength\\Program.cs",
+              "RelativeToolTip": "GetTvShowTotalLength\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:34:25.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

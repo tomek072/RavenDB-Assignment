@@ -1,0 +1,17 @@
+C:\Users\tomek\Desktop\GetTvShowTotalLength\GetTvShowTotalLength\obj\Debug\net8.0\GetTvShowTotalLength.csproj.AssemblyReference.cache
+C:\Users\tomek\Desktop\GetTvShowTotalLength\GetTvShowTotalLength\obj\Debug\net8.0\GetTvShowTotalLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomek\Desktop\GetTvShowTotalLength\GetTvShowTotalLength\obj\Debug\net8.0\GetTvShowTotalLength.AssemblyInfoInputs.cache
+C:\Users\tomek\Desktop\GetTvShowTotalLength\GetTvShowTotalLength\obj\Debug\net8.0\GetTvShowTotalLength.AssemblyInfo.cs
+C:\Users\tomek\Desktop\GetTvShowTotalLength\GetTvShowTotalLength\obj\Debug\net8.0\GetTvShowTotalLength.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Desktop\GetTvShowTotalLength\GetTvShowTotalLength\bin\Debug\net8.0\GetTvShowTotalLength.exe
+C:\Users\tomek\Desktop\GetTvShowTotalLength\GetTvShowTotalLength\bin\Debug\net8.0\GetTvShowTotalLength.deps.json
+C:\Users\tomek\Desktop\GetTvShowTotalLength\GetTvShowTotalLength\bin\Debug\net8.0\GetTvShowTotalLength.runtimeconfig.json
+C:\Users\tomek\Desktop\GetTvShowTotalLength\GetTvShowTotalLength\bin\Debug\net8.0\GetTvShowTotalLength.dll
+C:\Users\tomek\Desktop\GetTvShowTotalLength\GetTvShowTotalLength\bin\Debug\net8.0\GetTvShowTotalLength.pdb
+C:\Users\tomek\Desktop\GetTvShowTotalLength\GetTvShowTotalLength\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\tomek\Desktop\GetTvShowTotalLength\GetTvShowTotalLength\obj\Debug\net8.0\GetTvSho.71C6300E.Up2Date
+C:\Users\tomek\Desktop\GetTvShowTotalLength\GetTvShowTotalLength\obj\Debug\net8.0\GetTvShowTotalLength.dll
+C:\Users\tomek\Desktop\GetTvShowTotalLength\GetTvShowTotalLength\obj\Debug\net8.0\refint\GetTvShowTotalLength.dll
+C:\Users\tomek\Desktop\GetTvShowTotalLength\GetTvShowTotalLength\obj\Debug\net8.0\GetTvShowTotalLength.pdb
+C:\Users\tomek\Desktop\GetTvShowTotalLength\GetTvShowTotalLength\obj\Debug\net8.0\GetTvShowTotalLength.genruntimeconfig.cache
+C:\Users\tomek\Desktop\GetTvShowTotalLength\GetTvShowTotalLength\obj\Debug\net8.0\ref\GetTvShowTotalLength.dll
